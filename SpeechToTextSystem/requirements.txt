@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa
+nltk
+scikit-learn
+torch
+transformers
+datasets
+soundfile
+matplotlib
+seaborn
+flask
